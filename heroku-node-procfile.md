@@ -2,8 +2,8 @@ You don't need a `Procfile` for simple Node.js apps on Heroku. Simply add a `sta
 
 ```json
 {
-  scripts: {
-    start: 'node index.js'
+  "scripts": {
+    "start": "node index.js"
   }
 }
 ```
@@ -14,9 +14,9 @@ If you would like to run with a slightly different setup in development (e.g. us
 
 ```json
 {
-  scripts: {
-    dev: 'nodemon index.js',
-    start: 'node index.js'
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   }
 }
 ```
