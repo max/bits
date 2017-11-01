@@ -1,4 +1,4 @@
-# The efficiency of custom vs standard
+The efficiency of custom vs standard
 
 http://inessential.com/2014/08/04/on_vesper_and_working_efficiently
 > Brent Simmons
