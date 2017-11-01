@@ -1,5 +1,3 @@
-# Docker Inception
-
 Sometimes you want to command Docker on the host system from within a Docker container:
 
 ```
